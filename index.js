@@ -8,7 +8,7 @@ document.querySelector("form").addEventListener("submit", function (event) {
   // Perform authentication logic here (e.g., check against a database)
   if (email === "user@example.com" && password === "pass123") {
     // Redirect to a new page
-    window.location.href = "/BlogSpot/pages/dashboard.html";
+    window.location.href = "pages/dashboard.html";
   } else {
     alert("Invalid credentials. Please try again."); // Show an error message
   }
