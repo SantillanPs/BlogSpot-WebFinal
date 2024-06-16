@@ -364,6 +364,11 @@ body {
   margin-bottom: 40px;
   gap: 20px;
 }
+.contact-items2 {
+  display: flex;
+  margin-bottom: 40px;
+  gap: 20px;
+}
 
 .contacts {
   margin: 30px;
@@ -601,6 +606,7 @@ body {
     top: 50px;
   }
   .photo2 img {
+    border-radius: 50%;
     width: 150px;
   }
   .information {
