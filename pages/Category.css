@@ -742,4 +742,26 @@ body {
   .dropdown .dropbtn {
     font-size: 15px;
   }
+
+  .about h2 {
+    font-size: 26px;
+  }
+  .about {
+    width: 360px;
+  }
+  .information {
+    width: 360px;
+  }
+  .hero {
+    width: 360px;
+  }
+  .hero h3 {
+    font-size: 30px;
+  }
+  .hero p {
+    font-size: 10px;
+  }
+  .skill-list h2 {
+    font-size: 15px;
+  }
 }

@@ -10,7 +10,7 @@ document.querySelector("form").addEventListener("submit", function (event) {
     // Redirect to a new page
     window.location.href = "pages/dashboard.html";
   } else {
-    alert("Invalid credentials. Please try again."); // Show an error message
+    alert("Please use the credentials on the top left of your screen"); // Show an error message
   }
 });
 

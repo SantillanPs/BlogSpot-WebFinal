@@ -340,4 +340,20 @@ body {
   .dropdown .dropbtn {
     font-size: 15px;
   }
+
+  .contents {
+    width: 350px;
+  }
+
+  .title h2,
+  .key h2 {
+    font-size: 28px;
+  }
+  .title h3,
+  .key li {
+    font-size: 13px;
+  }
+  .title img {
+    width: 350px;
+  }
 }

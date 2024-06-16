@@ -16,6 +16,7 @@ body {
   max-width: 440px;
   padding: 0 20px;
   margin: 170px auto;
+  transition: 0.2s ease-in-out;
 }
 .wrapper {
   width: 100%;
@@ -184,4 +185,10 @@ form .signup-link a:hover {
 .menu-open {
   display: block;
   opacity: 1;
+}
+
+@media (max-width: 450px) {
+  .container {
+    margin: 140px auto;
+  }
 }
