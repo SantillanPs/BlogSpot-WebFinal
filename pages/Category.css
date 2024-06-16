@@ -764,4 +764,11 @@ body {
   .skill-list h2 {
     font-size: 15px;
   }
+  .photo2 {
+    top: 70px;
+  }
+
+  .skill-list {
+    left: 25px;
+  }
 }
