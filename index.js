@@ -10,7 +10,7 @@ document.querySelector("form").addEventListener("submit", function (event) {
     // Redirect to a new page
     window.location.href = "pages/dashboard.html";
   } else {
-    alert("Please use the credentials on the top left of your screen"); // Show an error message
+    alert("Email: user@example.com \npassword: pass123"); // Show an error message
   }
 });
 
